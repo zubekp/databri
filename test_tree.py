@@ -7,6 +7,9 @@ class Demo:
         
     def display_name(self):
         print(self.name,'-',self.age)
+        
+    def set_name(self,name):
+        self_name=name
 
 # COMMAND ----------
 
