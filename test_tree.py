@@ -29,4 +29,8 @@ demo.display_name()
 
 # COMMAND ----------
 
+var1 = 125
+
+# COMMAND ----------
+
 
