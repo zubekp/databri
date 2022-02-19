@@ -9,11 +9,19 @@ class Demo:
         print(self.name,'-',self.age)
         
     def set_name(self,name):
-        self_name=name
+        self.name=name
 
 # COMMAND ----------
 
 demo = Demo()
+
+# COMMAND ----------
+
+demo.display_name()
+
+# COMMAND ----------
+
+demo.set_name('Standa')
 
 # COMMAND ----------
 
