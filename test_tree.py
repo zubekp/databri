@@ -6,7 +6,15 @@ class Demo:
         self.age=age
         
     def display_name(self):
-        print(self.name,'-',age)
+        print(self.name,'-',self.age)
+
+# COMMAND ----------
+
+demo = Demo()
+
+# COMMAND ----------
+
+demo.display_name()
 
 # COMMAND ----------
 
