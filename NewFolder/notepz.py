@@ -11,8 +11,20 @@ class MyRecord:
 
 # COMMAND ----------
 
-listek = []
+listek = [MyRecord('Petere',i) for i in range(5)]
 
 # COMMAND ----------
 
-print('no otot')
+print(listek)
+
+# COMMAND ----------
+
+print(listek[3].age)
+
+# COMMAND ----------
+
+print(listek[3].name, listek[4].age)
+
+# COMMAND ----------
+
+
