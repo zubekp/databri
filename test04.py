@@ -8,4 +8,9 @@ def PlusOne(oper):
 
 # COMMAND ----------
 
+def PlusTwo(oper):
+    return PlusOne(oper)+2
+
+# COMMAND ----------
+
 
