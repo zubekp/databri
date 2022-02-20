@@ -12,3 +12,7 @@ class MyRecord:
 # COMMAND ----------
 
 listek = []
+
+# COMMAND ----------
+
+print('no otot')
