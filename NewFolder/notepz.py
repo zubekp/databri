@@ -23,4 +23,8 @@ print(listek[3].age)
 
 # COMMAND ----------
 
+print(listek[3].name, listek[4].age)
+
+# COMMAND ----------
+
 
