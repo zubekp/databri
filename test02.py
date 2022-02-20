@@ -7,4 +7,8 @@ print('hello world')
 
 # COMMAND ----------
 
+print('Ty jsi debil')
+
+# COMMAND ----------
+
 
